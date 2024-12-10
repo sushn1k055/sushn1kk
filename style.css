@@ -9,12 +9,12 @@ body {
 
 /* Заголовки */
 h1, h2, h3 {
-    color: #3498db;
+    color: #ec0000;
 }
 
 /* Шапка сайта */
 header {
-    background-color: #3498db;
+    background-color: #ec0000;
     padding: 20px;
     text-align: center;
     color: white;
@@ -49,7 +49,7 @@ nav a:hover {
 h1 {
     font-size: 24px;
     text-align: center;
-    color: #3498db;
+    color: #ec0000;
 }
 
 form {
@@ -71,15 +71,14 @@ input[type="text"], input[type="password"] {
 
 button {
     padding: 10px;
-    background-color: #3498db;
-    color: white;
+    background-color: #ec0000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #ec0000;
 }
 
 /* Кнопки для перехода между страницами */
@@ -88,7 +87,7 @@ p {
 }
 
 p a {
-    color: #3498db;
+    color: #ec0000;
 }
 
 p a:hover {
@@ -132,7 +131,7 @@ ul li {
 }
 
 footer {
-    background-color: #3498db;
+    background-color: #ec0000;
     color: white;
     text-align: center;
     padding: 20px;
